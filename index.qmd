@@ -1,0 +1,681 @@
+---
+format: 
+  revealjs:
+    logo: images/circle-cropped.png
+    link-external-newwindow: true
+    theme: [dark, mycustom.scss]
+    width: 1600
+    height: 900
+    slide-number: c/t
+    code-line-numbers: false
+    chalkboard: true
+editor: visual
+---
+
+<h1>Cystic Lung Disease - a Case-Based Approach</h1>
+
+<br>
+
+<hr>
+
+<br>
+
+<h2>Howard Mann, M.D.</h2>
+
+<h2>University of Utah School of Medicine</h2>
+
+<br><br><br><br>
+
+<h2>`r fontawesome::fa("envelope", "white")`   howard.mann\@utah.edu</h2>
+
+<h2>`r fontawesome::fa("link", "white")`   [howardmann.us](http://howardmann.us)</h2>
+
+![](images/UhealthLogo.png){.absolute top="325" right="300" width="300"}
+
+
+
+## Case one
+
+::: panel-tabset
+### Presentation
+
+A chronic condition associated with diminished DLCO (Diffusing Capacity For Carbon Monoxide).
+
+### Imaging
+
+![](images/casetwolam.jpg){width="90%" fig-align="center"}
+
+### Explanation
+
+Findings:
+
+-   multifocal, thin-walled cysts, generally without internal tissue strands
+-   lung parenchyma between the cysts is normal, except for the very unusual occurrence of...
+-   very small nodules of *Multifocal Multinodular Pneumocyte Hyperplasia*
+
+[Diagnosis: (typical of) *Lymphangiomyomatosis*]{style="color: grey;"}
+
+LAM may occur sporadically (females) or in the context of Tuberous Sclerosis (rarely males)
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+## Case two
+
+::: panel-tabset
+### Presentation
+
+The patient presented to the Emergency Department for evaluation of sudden, acute chest pain while "at rest."
+
+### Imaging
+
+![](images/casethreebhd.jpg){width="90%" fig-align="center"}
+
+### Additional information
+
+This is the patient's nose.
+
+Well...It could look like this!
+
+![](images/casethreenose.jpg){width="30%" fig-align="center"}
+
+### Explanation
+
+::: columns
+::: {.column width="50%"}
+Findings:
+
+-   (secondary) spontaneous pneumothorax
+-   multiple, often subpleural, relatively large, sometimes ovoid, thin-walled cystic spaces
+
+[Diagnosis: Birt-Hogg-Dubé syndrome]{style="color: grey;"}
+
+Other key points
+
+-   a heritable condition (autosomal dominant)
+-   mutation in a specific gene called FLCN, which creates a protein called folliculin
+-   increased risk of kidney lesions, in particular---cysts, benign tumors (usually hybrid of oncocytoma and chromophobe histologic cell types \[oncocytic hybrid tumor\]), and renal cell cancer.
+:::
+
+::: {.column width="50%"}
+<br> ![](images/Fibrofolliculomas.jpg){width="100%" fig-align="center"}
+:::
+:::
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+## Case three
+
+::: panel-tabset
+### Presentation
+
+Sometimes, radiography in a particular condition is typical of it. You'll get bonus points for getting this one on the basis of radiography alone!
+
+<br>
+
+Otherwise the CT should get you there immediately.
+
+### Radiography
+
+![](images/casefourpa.jpg){width="47%" fig-align="center"}
+
+### CT
+
+![](images/casefourct.jpg){width="46%" fig-align="center"}
+
+### Explanation
+
+::: columns
+::: {.column width="40%"}
+Findings:
+
+CXR
+
+-   reticular opacities, mostly in the upper lungs
+-   static lung volumes are not low, unlike with fibrosing ILDs
+
+CT
+
+-   irregularly-shaped cystic spaces, with relative sparing of the lower lungs
+-   many small, cavitated nodules (blue arrows)
+-   one upper lobe opacity (box) that may represent the so-called stellate lesion of PLCH
+
+[Diagnosis : *Langerhan's cell histiocytosis*]{style="color: grey;"}
+
+
+:::
+
+::: {.column width="60%"}
+![](images/ctlangerhans.jpg){width="80%" fig-align="center"}
+:::
+:::
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+## Case three.b. 
+
+Another classic example
+
+<br>
+
+![](images/plchcxrwithCT.jpg){fig-align="center" width="100%"}
+
+
+
+::: {.callout-note icon="false"}
+## The very definition of an *Aunt Minnie*
+
+- A lung biopsy is unnecessary.
+- Nothing (!) else looks like this.
+:::
+
+
+Another *Aunt Minnie*
+
+
+## Case four
+
+::: panel-tabset
+### Presentation
+
+This patient has no findings of respiratory impairment or symptoms.
+
+### Imaging
+
+![](images/casefive.jpg){width="80%" fig-align="center"}
+
+### Explanation
+
+::: columns
+::: {.column width="45%"}
+Finding:
+
+-   small, cystic spaces in the upper lobe *without* discernible "walls"
+
+[Diagnosis: Centrilobular emphysema]{style="color: grey;"}
+
+A tip: Minimum Intensity Projection images will make these small spaces easier to perceive.
+
+This is what you're perceiving:
+
+![](images/centrilobularemphysema2.jpg){width="100%" fig-align="center"}
+:::
+
+::: {.column width="55%"}
+<br> <br> ![](images/centrilobularemphysema.jpg){width="100%" fig-align="center"}
+:::
+:::
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+## Case five
+
+::: panel-tabset
+### Presentation
+
+Abnormalities were perceived in the lung bases on abdominal CT obtained for evaluation of possible Inflammatory Bowel Disease. No abdominal pathology was identified.
+
+Further evaluation was perfomed
+
+### Radiography
+
+![](images/casesixpa.jpg){width="50%" fig-align="center"}
+
+### CT
+
+![](images/casesixct.jpg){width="80%" fig-align="center"}
+
+### Explanation
+
+::: columns
+::: {.column width="40%"}
+Findings:
+
+-   thin-walled cystic spaces; some contain tissue elements (box)
+-   solid nodules, some calcified or ossified
+
+[Diagnosis: parenchymal deposition of immunoglobulin-derived light chains and/or amyloid. Subsequent evaluation revealed that the patient had Sjogren's syndrome]{style="color: grey;"}
+
+![](images/pathomechanismcystsprotein.jpg){width="80%" fig-align="center"}
+:::
+
+::: {.column width="60%"}
+![](images/sjogren1.jpg){width="40%" fig-align="center"}
+
+![](images/sjogren2.jpg){width="40%" fig-align="center"}
+:::
+:::
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+
+## Case five.b.  
+
+Another example.
+
+
+::: panel-tabset
+### Presentation
+
+This patient has long-standing, asymptomatic Lambda light chain MGUS.
+
+Eventually, a surgical lung biopsy was done.
+
+### CT
+
+<br>
+
+![](images/amyloidcysts.jpg){width="100%" fig-align="center"}
+
+### Pathology Images
+
+![](images/amyloidpath.jpg){width="80%" fig-align="center"}
+
+### Explanation
+
+Typical CT Findings:
+
+-   thin-walled cystic spaces.
+
+We expected light chain deposition, but amyloid was present.
+
+The DDx includes *Pulmonary Light Chain Deposition Disease* (without renal involvement).
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+
+## Case six
+
+::: panel-tabset
+### Presentation
+
+A staging CT was performed in an oncology patient. A solitary finding was present.
+
+### CT
+
+![](images/caseseven.jpg){width="50%" fig-align="center"}
+
+### Explanation
+
+::: columns
+::: {.column width="50%"}
+Finding:
+
+-   solitary left lower lobe cyst
+
+[Diagnosis: a cystic metastasis from an extremity epithelioid sarcoma]{style="color: grey;"}
+
+<br>
+
+[Key point: sarcomas are a notorious cause of cystic metastases]{style="color: #006200;"}
+:::
+
+::: {.column width="50%"}
+![](images/lllcyst.jpg){width="100%" fig-align="center"}
+:::
+:::
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+
+## Case seven
+
+::: panel-tabset
+### Presentation
+
+This patient's back looks like this.
+
+![](images/casetwelveback.jpg){width="40%" fig-align="center"}
+
+### CT
+
+Representative images.
+
+Does this make sense ?
+
+![](images/casetwelvect.jpg){width="90%" fig-align="center"}
+
+### Explanation
+
+::: columns
+::: {.column width="40%"}
+Findings
+
+-   Yes, the patient has [neurofibromatosis]{style="color: grey;"}
+-   some patients have associated interstitial and cystic lung disease.
+
+It's an odd and very unusual causal association.
+:::
+
+::: {.column width="60%"}
+![](images/neurofibromatosis.jpg){width="80%" fig-align="center"}
+:::
+:::
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case eight
+
+::: panel-tabset
+### Presentation
+
+If you can make a diagnosis that unifies the findings on these three images, you'll be eligible for a big prize!
+
+Odds are very high that you've not seen this before.
+
+
+
+### CT
+
+![](images/casethirteen.jpg){width="95%" fig-align="center"}
+
+### Explanation
+
+::: columns
+::: {.column width="40%"}
+Findings
+
+-   multiple cysts in the kidneys and liver, consistent with autosomal dominant polycystic kidney disease
+-   angiomyolipomas (note fat components) in the kidneys
+-   thin-walled lung cysts
+
+Well, the very uncommon association between ADPKD and cysts is known:
+
+![](images/adpkdcysts.jpg){width="95%" fig-align="center"}
+
+Now we need genetics to put them together.
+:::
+
+::: {.column width="60%"}
+*A contiguous gene syndrome (CGS), also known as a contiguous gene deletion syndrome, is a clinical phenotype caused by a chromosomal abnormality, such as a deletion or duplication that removes several genes lying in close proximity to one another on the chromosome. The combined phenotype of the patient is a combination of what is seen when any individual has disease-causing mutations in any of the individual genes involved in the deletion*
+
+Source: Wikipedia
+
+[Tuberous sclerosis complex (TSC) is an autosomal dominant neurocutaneous syndrome caused by mutation or deletion of TSC1 encoding hamartin or TSC2 encoding tuberin and characterized by seizure, mental retardation, and multiple hamartomas or benign tumors in the skin, brain, retina, heart, kidney, and lungs. The TSC2 gene on chromosome 16p13.3 lies adjacent to the PKD1 gene which is responsible for autosomal dominant polycystic kidney disease. The TSC2/PKD1 contiguous gene syndrome ( TSC2/PKD1 CGDS) is caused by deletion of both TSC2 and PKD1 gene.]{style="color: grey;"}
+:::
+:::
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+
+
+
+
+
+
+## Case nine
+
+::: panel-tabset
+### Presentation
+
+This HIV-positive patient has an acute, febrile respiratory illness.
+
+### Imaging
+
+![](images/caseone.jpg){width="90%" fig-align="center"}
+
+### Explanation
+
+::: columns
+::: {.column width="30%"}
+Findings:
+
+-   multilobar opacities, consistent with consolidation
+-   foci of left apical lung cavitation
+
+[Diagnosis: *Pneumocystis pneumonia*]{style="color: grey;"}
+
+The occurrence of cavitation is an uncommon, but well-known complication, of this fungal infection.
+
+This may be a AIDS-presenting condition.
+:::
+
+::: {.column width="70%"}
+![](images/cavitationpneumocystis.jpg){width="90%" fig-align="center"}
+:::
+:::
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Case ten
+
+::: panel-tabset
+### Presentation
+
+A SCUBA diver was transported to an acute care clinic for acute chest pain while diving.
+
+Radiography reportedly showed a small left pneumothorax. In the E.D., a CT was requested.
+
+### CT
+
+A representative image of the basal hemithorax.
+
+![](images/casenine.jpg){width="30%" fig-align="center"}
+
+### Explanation
+
+::: columns
+::: {.column width="40%"}
+Findings
+
+-   a secondary spontaneous pneumothorax
+-   cystic spaces in the left lower lobe
+
+[Strong presumptive diagnosis: Congenital Pulmonary Airway Malformation]{style="color: grey;"}
+
+Boyle's law dictates that volume is inversely proportional to absolute pressure exerted on the body. As such, as pressure increases at deeper depths under water, there is a reduction in the volume of gas containing spaces in the body, and vice-versa. Ascent may result in rupture of cystic spaces.
+
+Such cystic lesions are generally considered a contraindication to SCUBA diving.
+:::
+
+::: {.column width="60%"}
+![](images/cpam.jpg){width="60%" fig-align="center"}
+:::
+:::
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+
+## Case ten.a.
+
+Another typical presentation
+
+::: panel-tabset
+### Presentation
+
+The patient went to the E.D. with symptoms typical of an acute, febrile illness with a severe, productive cough
+
+### Radiography
+
+
+
+![](images/cxrcpaminfected.jpg){width="80%" fig-align="center"}
+
+### CT
+
+![](images/ctpaminfected.jpg){width="1000%" fig-align="center"}
+
+
+### A prior CT for comparison
+
+![](images/cpampriorct.jpg){width="45%" fig-align="center"}
+
+
+### Pathology examination
+
+
+
+![](images/cpamresected.jpg){width="75%" fig-align="center"}
+
+
+### Explanation
+
+An infected CPAM. 
+<br>
+
+Seemingly inexplicable, recurrent infections may occur.
+
+<br>
+
+The CPAM is typically a focal, intralobar lesion even though it is typically a complex cystic lesion.
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+
+
+
+
+
+
+
+## Case eleven
+
+::: panel-tabset
+### Presentation
+
+A middle-aged patient with substantial exercise limitation and reduced DLCO.
+
+### Radiography
+
+![](images/caseelevenpa.jpg){width="45%" fig-align="center"}
+
+### CT
+
+A representative image.
+
+![](images/caseelevenct.jpg){width="50%" fig-align="center"}
+
+### Explanation
+
+Findings:
+
+-   multiple, large emphysematous bullae
+
+[Diagnosis: Giant bullous emphysema]{style="color: grey;"}
+
+These large bullae are very compliant when compared to adjacent non-emphysematous lung, and thus fill preferentially during inspiration. That's a substantial problem because of the associated V/Q mismatch-- no capillaries for gas exchange.
+
+Some patients are managed with surgical resection of bullae when the intervening lung appears normal. This restores lung architecture (roughly akin to darning a sock after removal of holes), directs more of the inspired tidal volume to normal parenchyma, and improves oxygenation of blood.
+
+Dogma to be refuted: these bullae are not associated with high intra-cystic pressure and do not "compress" adjacent lung, as such.
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+
+
+
+## Case twelve
+
+::: panel-tabset
+### Presentation
+
+A patient with substantial pack-years of smoking.
+
+### CT
+
+![](images/casefifteenct.jpg){width="100%" fig-align="center"}
+
+### Explanation
+
+::: columns
+::: {.column width="40%"}
+[Diagnosis: Smoker's Lung]{style="color: grey;"}
+
+The following are present:
+
+-   irregularly-shaped subpleural and non-subpleural cystic spaces with apparently thickened "walls." The latter is likely a manifestation of lung fibrosis. The subpleural spaces are likely paraseptal emphysema. The non-subpleural spaces may be a manifestation of so-called AEF-- *enlarged airspaces with fibrosis*---a histopathological finding in fibrotic lung attributed to Smoking Related Interstitial Fibrosis.
+-   small cystic spaces with extensive ground glass opacity in the lung bases
+-   diffuse pulmonary hyperattenuation with extensive ground glass opacity in the bases -- very likely a combination of the pulmonary accumulation of smoker's macrophages and SRIF.
+:::
+
+::: {.column width="60%"}
+![](images/srif.jpg){width="75%" fig-align="center"}
+:::
+:::
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+
+:::
+
+
+
+## Case thirteen
+
+::: panel-tabset
+### Presentation
+
+A patient with long-standing scleroderma.
+
+### CT
+
+<br>
+
+![](images/sclerodermahoneycombing.jpg){width="100%" fig-align="center"}
+
+### Explanation
+
+
+[Diagnosis: Cystic spaces of honeycombing]{style="color: grey;"}
+
+
+![](images/sclerodermasigns.jpg){width="100%" fig-align="center"}
+
+
+The following radiology signs are present:
+
+-   *exuberant honeycombing sign*
+-   *the straight edge sign*
+-   *the anterior upper lobe sign*
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+
+:::
+
+
+
+
